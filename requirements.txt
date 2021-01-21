@@ -1,0 +1,2 @@
+pytest==6.2.1
+memory-profiler==0.58.0
